@@ -46,17 +46,11 @@ Actual Silver
 Rainbow
 ![Wheee Rainbow](15.png)
 
-Stealth Bomber
-![Stealth Bomber or Black Carbon Fiber on Black Metal](16.png)
-
 Black Metal & Black
 ![Black Metal & Black](17.png)
 
 Blue Metal & White
 ![Blue Metal & White](18.png)
 
-Stealth bomber. The inner is actually black, for some reason I couldn't figure out how to render a black inside..  Pesky software, to be fair learned to use it today so..  Yea..
-![Stealth bomber](16.png)
-
-Black on Black Stealthy
-![Black on Black Stealthy](17.png)
+Stealth Bomber (Note Black Carbon Fiber on top, Black on Black on bottom)
+![Stealth Bomber or Black Carbon Fiber on Black Metal](16.png)
